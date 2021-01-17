@@ -1,0 +1,18 @@
+.main-container {
+  padding: 0 10% 0 10%;
+}
+
+.heading {
+  text-align: center;
+}
+
+.each-post-box {
+  padding: 2%;
+  margin-bottom: 1%;
+  border-radius: 10px;
+  background-color: rgb(156, 245, 226);
+}
+
+.title {
+  text-transform: uppercase;
+}
